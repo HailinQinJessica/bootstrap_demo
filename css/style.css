@@ -1,0 +1,18 @@
+.section-heading{
+	background-color: #777;
+}
+.section-odd{
+	background-color: #eee;
+}
+.section-even{
+	background-color: white;
+}
+.text-heading{
+	padding: 180px 0;
+}
+.text-intro{
+	padding: 30px 40px;
+}
+.footer{
+	padding: 30px;
+}
