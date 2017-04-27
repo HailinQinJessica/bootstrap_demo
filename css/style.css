@@ -16,3 +16,16 @@
 .footer{
 	padding: 30px;
 }
+
+.slide{
+	display: none;
+	background: transparent;
+	position: relative;
+}
+.active-slide{
+	display: block;
+}
+
+.slider{
+	height: 450px;
+}
